@@ -2,6 +2,8 @@
 
 KB Custom Stepper
 
+This is a binding project based on https://github.com/soumalya/iOS-Stepper-UI
+
 ###Usage
 
 ```
